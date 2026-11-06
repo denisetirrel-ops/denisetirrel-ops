@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Denise
 
-<!--
-**denisetirrel-ops/denisetirrel-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst with more than 15 years in retail and team leadership. I know what a sales report has to answer before anyone opens it, and now I build those reports myself.
 
-Here are some ideas to get you started:
+Currently finishing the Data Analyst program at Masterschool. Open to remote data analyst roles from March 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** SQL · Python · Power BI · Google Sheets · Excel · Looker Studio
+
+## Projects
+
+- [PeakFlow Online Sales 2024](https://github.com/denisetirrel-ops/peakflow-sales-dashboard) – Power BI dashboard: messy CSV cleaned in Power Query, star schema, DAX measures, and a quality check that caught revenue counted four times.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/denise-tirrel-2395ba446)
