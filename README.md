@@ -9,6 +9,7 @@ Currently finishing the Data Analyst program at Masterschool. Open to remote dat
 ## Projects
 
 - [PeakFlow Online Sales 2024](https://github.com/denisetirrel-ops/peakflow-sales-dashboard) – Power BI dashboard: messy CSV cleaned in Power Query, star schema, DAX measures, and a quality check that caught revenue counted four times.
+- [Unicorn Sales Analysis (SQL)](https://github.com/denisetirrel-ops/unicorn-sales-analysis-sql) – PostgreSQL analysis of 9,997 order lines with CTEs and window functions: West grows fastest, and every discount above 20% loses money.
 
 ## Contact
 
